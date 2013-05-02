@@ -1,0 +1,90 @@
+Topic 15th 0.00234310879
+diablo,armor,diablo_iii,artifact_fragment,nbsp,iii,crew,swtor,skills,skill,crystal,light,heavy_medium_armor,artifact,fragment,heavy,sound,ii,diablo_ii,boys
+
+Topic 2th 0.00194200088
+weight,color,weight_loss,loss,pro,drive,green,mac,codes,usb,training,body,fat,hard,pro_wrestler,songs,blade,internet,mac_os,review
+
+Topic 23th 0.00102210927
+star,star_wars,wars,the,old,the_old_republic,xbox,sense_of_humor,republic,of,compliment,force,lego,men,scott_thompson,humor,sense,other_men,real_life,other
+
+Topic 4th 0.00030089646
+game,video,games,pc,video_game,flash,video_games,action,pc_games,flash_games,free,dragon,online,play,sports,youtube,time,sales,controller,watch
+
+Topic 8th 0.00029189085
+radeon_hd,radeon,hd,ati_radeon,ati,series,date,player,release_date,air,relationship,blu_ray,long,release,mobility_radeon,signs,first,laurie_puhn,news,first_date
+
+Topic 22th 0.0002251302
+free,guild_wars,guild,time,store,online_store,download,next,full,security,wars,error,next_time,razer,gamers,open,mmo,women,software,key
+
+Topic 28th 0.00020062557
+graphics,amd,graphics_card,card,graphics_driver,gratis,operating_system,system,driver,juegos,gaming,home_gaming,radeon,radeon_hd,gratis_juegos,home,juegos_gratis,operating,amd_radeon,catalyst
+
+Topic 11th 0.00014147427
+windows,guide,energy,power,home,leveling,jedi,abilities,cell,phone,view,group,cell_phone,force,fortune,gear,weather,windows_vista,first,first_aid_kit
+
+Topic 29th 0.00013780537
+day,mother_day,picture,image,mother,love,upload_image,more,share,scarlett_johansson,name,share_more,mothers_day,high_quality,upload,quality,mom,high,scarlett,may
+
+Topic 3th 0.00013284739
+online,naruto,manga,news,page,naruto_manga,galaxy,bleach,online_page,samsung,samsung_galaxy,chapter,read,naruto_uzumaki,bleach_manga,last,united_states,united,fantasy,states
+
+Topic 9th 0.00013218916
+george_lucas,george,rich_neighbors,lucas,something_likeable,star_trek,daily,show,trek,neighbors,star,rich,daily_show,photographer,something,likeable,change,lucas_valley,valley,judge_judy
+
+Topic 16th 0.00013054471
+film,family,car,family_guy,que,guy,lo_que,game_info,fox,twentieth_century_fox_film_corporation,online,del,rock,little,lo,info,century,cars,corporation,end
+
+Topic 24th 0.00010816478
+comedy_central,tosh.0_blog,comedy,central,blog,tosh.0,shows,good,good_idea,comedy_central_presents,bad,idea,job,nicolas_cage,ignore_hitler,cool_dad,tattoo,nail_salon,best,dad
+
+Topic 21th 0.00010772738
+city,league,of,episode,premier,korra,barclays_premier_league,premier_league,book,legend_of_korra,official_site,official,korra_episode,legend,site,portal,barclays,watch,gun,club
+
+Topic 13th 0.00010119711
+world,of,ultimate_frisbee,incredible_catch,son_steals_show,nba_star,ultimate,show,elder_scrolls,art,mass_effect,war,son,incredible,nba,game,elder,catch,the,world_of_warcraft
+
+Topic 14th 8.666777e-05
+and,arrow_keys,advertisment,left_and_right,advertisment_advertisment_advertisment,keys,right,hair,arrow,fail,life,room,waiting_room,hollywood,left,has_gay_relative,cancer,manny_pacquiao,hollywood_mall,has
+
+Topic 27th 7.945568e-05
+avengers,man,sex,music,movie,iron_man,the,office,box_office,first,iron,marvel,porn,comic,america,captain_america,call_of_duty,joss_whedon,box,call
+
+Topic 12th 7.895856e-05
+walking_dead,of,dead,season,the,walking,game_of_thrones,paul,advertisement,john,armoring,thrones,advertisement_advertisement,men,ron_paul,robert,mitt_romney,robert_kirkman,might_armoring,big
+
+Topic 20th 7.865167e-05
+new,york,new_york,business,service,sharing,street,information,sharing_revolution,sharethis,bank,oil,money,wall,share,wall_street,home,prices,scott_thompson,revolution
+
+Topic 10th 5.686427e-05
+facebook,girl,hot,girls,u.s,mark,mark_zuckerberg,credit,eduardo_saverin,wedding,ipo,wallpaper,drop,stock,price,pitch_drop_experiment,facebook_ipo,break.com,credit_card,facebook_page
+
+Topic 19th 5.52527e-05
+recipe,food,food_network,recipe_box,network,cruel_bungee_prank,bachelor_party,party,chicken,box,bachelor,prank,bungee,cruel,red,recipes,sauce,review,cake,red_sox
+
+Topic 0th 5.407088e-05
+school,high,police,park,schools,year,cbs,los,high_school,san,college,state,job,county,students,angeles,high_schools,student,los_angeles,public
+
+Topic 5th 4.354514e-05
+quiterly.com_funny,pictures,funny,quiterly.com,fail,water,disney,god,model,epic_fail,role_model,woman,friends,role,megan_fox,unemployment,epic,god_will_judge,picture,poor_woman
+
+Topic 25th 4.098466e-05
+obama,president_obama,american,president,marriage,gay,gay_marriage,dog,north,house,barack_obama,of,north_carolina,moon,south,barack,rights,carolina,sex,china
+
+Topic 1th 3.607789e-05
+kate_upton,recovery_foods,live,live_longer,baseball_card,strong_survive,foods,kate,recovery,scott_jurek,les,upton,tips,diet_tips,scott,baseball,strong,diet,longer,card
+
+Topic 6th 3.47711e-05
+black,movies,black_hole,map,hole,white,death,time,join_date,london,mail_address,another_star,camera,arts,mail,join,blue,project,india,television
+
+Topic 26th 3.320446e-05
+photos,people,social,photo,social_media,media,display_family_photos,space,post,display,family,thomas,fashion,nude,break.com,twitter,ideas,david,to,marketing
+
+Topic 18th 2.787317e-05
+tv,health,of,medical,report,women,dlc,blood,care,colbert_report,skyrim_dlc,skyrim,university,young,insurance,shirt,skin,center,colbert,channel
+
+Topic 7th 2.667684e-05
+solar,time,eclipse,magazine,solar_eclipse,beach,child,justin_bieber,baby,opens_thursday,teen,cover,opens,website,fire,showtimes,quiz,justin,time_magazine,stadium
+
+Topic 17th 2.374801e-05
+iphone,google,apple,android,mobile,web,dark,search,design,ice,server,phone,app,microsoft,ipad,knight,code,cream,paper,ice_cream_sandwich
+

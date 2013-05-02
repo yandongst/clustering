@@ -1,0 +1,90 @@
+Topic 19th 0.00203895072
+sharethis,sharing,sharing_revolution,share,share_publishing,information,publishing,share_api,revolution,content_publishing,third_parties,sharethis_publishers,api,sharethis_services,content,sharing_service,service,parties,services,usage_information
+
+Topic 8th 0.00070839025
+google,click,super,click_fraud,google_sued,house,super_bowl_sunday,lock_key,bowl,sunday,key,fraud,clicks,sued,india,lock,super_bowl,chic,house_party,spirit
+
+Topic 23th 0.00053139617
+thepostgame_social_sports_reader_connect,social,sports,thepostgame,reader,connect,surprising_player_tops_nfl_salaries,player,date,recovery_foods,nfl,tops,surprising,salaries,foods,live_longer,strong_survive,live,recovery,ultimate_frisbee
+
+Topic 17th 0.0003585599
+feature_film,full_length,film,full,feature,length,children,john,home,final_fantasy_vii,fantasy,final,advent_children,yahoo,john_travolta,gold,columbia_tristar_home_entertainment,entertainment,scott_thompson,thompson
+
+Topic 4th 0.00026593577
+egg_white,white,egg,tickets,showtimes,egg_beaters,omelet,street,fortune,wall_street,college,wall,university,beaters,opens,western,opens_thursday,movie,jpmorgan,vitamin
+
+Topic 2th 0.00025500073
+dog,dogs,puppies,sale,dog_breed,guide,puppy,breed,dogs_guide,price,family,disease,blue,dog_breeder,symptoms,shepherd,blood,dog_breeds,pm,american
+
+Topic 6th 0.00013430023
+free,game,games,business,picture,free_game,small_business,small,flash,legend_of_korra,korra,flash_games,image,upload_image,sample,review,play,free_sample,legend,korra_episode
+
+Topic 0th 0.00012390791
+facebook,at&t,new_york,york,high_speed_internet,internet,high,u.s,new,service,speed,examiner,ipo,charges,facebook_ipo,moon,directv,dog_news_examiner_penny,citizenship,medical
+
+Topic 14th 0.00010626488
+dog,pet,cat,dog_training,oil,hair,new_dog_adopters,training,tax,color,pet_adoption,adopters,prices,adoption,energy,pets,gas,codes,mitt_romney,wild
+
+Topic 22th 7.883749e-05
+guy,sense_of_humor,women,compliment,weight,weight_loss,humor,men,loss,sense,woman,body,fat,pro,berger,phone,pro_wrestler,kudia,calories,alexa_chung
+
+Topic 1th 5.164163e-05
+episode,national,world,disney,eye,death,long,week,las_vegas,relationship,big,vin_diesel,prevention,las,long_distance_relationship,vegas,eye_spy,ripley_believe_it_or_not,boob_job,face
+
+Topic 5th 4.187527e-05
+star,high,show,schools,son_steals_show,nba_star,sex,high_schools,son,nba,marriage,steals,credit,public,public_high_schools,gay_marriage,edt_newsweek,card,gay,stars
+
+Topic 16th 3.095581e-05
+day,mother_day,mother,mothers_day,quotes,mom,love,mothers,gift,graphics,flower,amd,radeon_hd,ideas,ford,radeon,hd,gifts,happy,printable
+
+Topic 27th 3.050837e-05
+food_network,food,network,news,photo,water,brown,art,kim_kardashian,kim,hot,island,center,breaking_news,kardashian,paula_deen,alton_brown,history,ray,museum
+
+Topic 3th 1.291962e-05
+video,party,cruel_bungee_prank,bachelor_party,movies,watch,top,online,prank,bachelor,cruel,bungee,season,solar,american,solar_eclipse,top_harvard_baseball_video,smu_lady_rowing_team_attempts,harvard,team
+
+Topic 11th 1.259243e-05
+comedy_central,tosh.0_blog,central,blog,comedy,tosh.0,shows,good,tattoo,good_idea,campaign,unemployment,benefits,dress,pregnancy,unemployment_benefits,idea,pay,cool,family
+
+Topic 29th 1.250909e-05
+school,black,tv,travel,kate_upton,rapid_rewards,bonus_points,book,kate,baseball_card,points,high_school,students,rewards,shoes,chinese_researchers_quantum_teleport_photons_over,chinese,black_hole,upton,rapid
+
+Topic 12th 1.189497e-05
+police,county,baby,cbs,state,city,man,girl,chicago,san,beastie_boys,fire,boys,adam_yauch,boy,adam,zoo,action,shelby,baltimore
+
+Topic 25th 1.075115e-05
+obama,health,care,facts,president_obama,president,company,health_care,flea,treatment,insurance,human,mail_address,control,kentucky_derby,budget,martin,drug,derby,defense
+
+Topic 26th 1.045229e-05
+home,job,jobs,movie,search,green,restaurant,fashion,questions,rates,dream,infections,garden,brain,awards,work,harry,market,style,job_search
+
+Topic 24th 9.46379e-06
+recipe,recipe_box,box,chicken,recipes,sauce,cake,review,salad,cheese,free_recipe,chocolate,cream,arrow_keys,left_and_right,advertisment,fish,beef,pizza,arrow
+
+Topic 21th 9.45898e-06
+people,god,life,car,jesus,view,good,year,bill,bible,properly_beg,zach_galifianakis,abstinence_fail,last_year,money,good_question,humor,ignorance_car,pope_benedict,store
+
+Topic 9th 8.87922e-06
+online,time,page,naruto,manga,magazine,time_magazine,skin,cover,air,read,naruto_manga,social_media,system,online_page,mobile,media,bleach,site,chapter
+
+Topic 10th 8.41343e-06
+time,lake_tahoe,list,lake,wish_list,kids,beach,child,vacation,tahoe,student,story,silver,post,fun,line,vacation_time,apr,school,mayweather
+
+Topic 13th 7.76263e-06
+tips,park,scott_jurek,dog_food,diet_tips,diet,food,summer,scott,cancer,foods,pain,jurek,diamond_pet_foods,cinco_de_mayo,dallas,diamond,recall,teacher,river
+
+Topic 18th 6.80358e-06
+music,wedding,money,los,photos,money_magazine,digital,best_places,magazine,angeles,vote,places,tv,video,los_angeles,mobility_awareness_month_vote,month,lo_que,display_family_photos,thomas
+
+Topic 15th 6.58601e-06
+iphone,daily,apple,map,states,avengers,world,united,windows,dark,king,daily_show,america,american,war,eating,office,box_office,galaxy,download
+
+Topic 7th 5.5181e-06
+animal,keith_haring,north,haring,companies,birth,google_doodle,junior_seau,personality,north_carolina,control,birth_control_pills,amazing,journal_of_personality,group,keith,hard,christina_aguilera,carolina,design_amazing
+
+Topic 20th 5.38493e-06
+george_lucas,real,george,rich_neighbors,rich,something_likeable,lucas,added,south,education,ohio,act,neighbors,great,justin_bieber,change,justin,struck_by_lightning,jesus_statue,life
+
+Topic 28th 4.30805e-06
+funny,pictures,red,pit_bull,pit,fail,videos,quiterly.com_funny,bull,products,plant,ideas,red_sox,kitchen,shop,cowboys_cheerleader,pit_bulls,garden,plants,epic
+
